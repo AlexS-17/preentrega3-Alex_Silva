@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "roboto";
+    color: rgb(113, 109, 109);
+    text-decoration: none;
+    list-style: none;
+    line-height: 1.5;
+
+}
+
+body{
+    background-color: black;
+}
